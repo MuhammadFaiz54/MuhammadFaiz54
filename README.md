@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="mailto:muhammadhuzaifa3030@gmail.com">
+  <a href="mailto:mf4639@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-huzaifa-999bb2207/">
+  <a href="https://www.linkedin.com/in/muhammad-faiz-58b357216/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://wa.me/923172043030">
+  <a href="https://wa.me/923166365680">
     <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </div> 
@@ -39,9 +39,9 @@ I enjoy contributing to open-source projects focusing on mobile development and 
 
 ## 📫 Contact Me
 
-- *Email:* [muhammadhuzaifa3030@gmail.com](mailto:muhammadhuzaifa3030@gmail.com)
-- *LinkedIn:* [Muhammad Huzaifa](https://www.linkedin.com/in/muhammad-huzaifa-999bb2207/)
-- *GitHub:* [Github](https://github.com/HuzaiFa3030)
+- *Email:* [mf4639@gmail.com](mailto:mf4639@gmail.com)
+- *LinkedIn:* [Muhammad Faiz](https://www.linkedin.com/in/muhammad-faiz-58b357216/)
+- *GitHub:* [Github](https://github.com/MuhammadFaiz54)
 
 Feel free to reach out if you’d like to collaborate on a project, discuss tech, or just connect!
 
